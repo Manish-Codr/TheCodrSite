@@ -1,0 +1,10 @@
+.navy-blue {
+    background-color: #043249;
+    height: 100px !important;
+}
+.middle {
+    justify-content: center !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    height: 100% !important;
+}
